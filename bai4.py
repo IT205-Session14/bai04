@@ -158,7 +158,7 @@ while True:
         case "4":
             find_valedictorian(student_records)
         case "5":
-            print("Cảm ơn bạn đã sử dụng hệ thống!")
+            print("Thoát chương trình!")
             break
         case _:
             print("Lựa chọn không hợp lệ, vui lòng nhập lại!")
